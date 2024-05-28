@@ -1,0 +1,272 @@
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.json
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShopPingManagement.exe
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShopPingManagement.deps.json
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShopPingManagement.runtimeconfig.json
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShopPingManagement.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShopPingManagement.pdb
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.csproj.AssemblyReference.cache
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.AssemblyInfoInputs.cache
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.AssemblyInfo.cs
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.csproj.CoreCompileInputs.cache
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.OnlineShopPingManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineShopPingManagement.props
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShopPingManagement.props
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineShopPingManagement.props
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\scopedcss\bundle\OnlineShopPingManagement.styles.css
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.csproj.CopyComplete
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\refint\OnlineShopPingManagement.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.pdb
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShopPingManagement.genruntimeconfig.cache
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\ref\OnlineShopPingManagement.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rohit Koli\Training\Projects\Online Shopping Management\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.json
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.exe
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.deps.json
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.runtimeconfig.json
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.pdb
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.AssemblyReference.cache
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.AssemblyInfoInputs.cache
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.AssemblyInfo.cs
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.CoreCompileInputs.cache
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.OnlineShoppingManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineShoppingManagement.props
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShoppingManagement.props
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineShoppingManagement.props
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\scopedcss\bundle\OnlineShoppingManagement.styles.css
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.CopyComplete
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\refint\OnlineShoppingManagement.dll
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.pdb
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.genruntimeconfig.cache
+D:\Rohit Koli\Practice\OnlineShopPingManagement\obj\Debug\net6.0\ref\OnlineShoppingManagement.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.json
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.exe
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.deps.json
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.runtimeconfig.json
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.pdb
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.AssemblyReference.cache
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.AssemblyInfoInputs.cache
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.AssemblyInfo.cs
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.CoreCompileInputs.cache
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.OnlineShoppingManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineShoppingManagement.props
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShoppingManagement.props
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineShoppingManagement.props
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\scopedcss\bundle\OnlineShoppingManagement.styles.css
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.CopyComplete
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\refint\OnlineShoppingManagement.dll
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.pdb
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.genruntimeconfig.cache
+D:\Rohit Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\ref\OnlineShoppingManagement.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\appsettings.json
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.exe
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.deps.json
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.runtimeconfig.json
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\OnlineShoppingManagement.pdb
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Humanizer.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.AssemblyReference.cache
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.AssemblyInfoInputs.cache
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.AssemblyInfo.cs
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.CoreCompileInputs.cache
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.OnlineShoppingManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineShoppingManagement.props
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShoppingManagement.props
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineShoppingManagement.props
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\scopedcss\bundle\OnlineShoppingManagement.styles.css
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.csproj.CopyComplete
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\refint\OnlineShoppingManagement.dll
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.pdb
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\OnlineShoppingManagement.genruntimeconfig.cache
+D:\Rohit_Koli\Practice\Project\OnlineShopPingManagement\obj\Debug\net6.0\ref\OnlineShoppingManagement.dll
