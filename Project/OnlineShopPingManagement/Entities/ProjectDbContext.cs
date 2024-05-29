@@ -23,7 +23,6 @@ namespace OnlineShopPingManagement.Entities
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //Configure connection string
-            //optionsBuilder.UseSqlServer("Data Source=TRI03L-PW07B2DE\\SQLEXPRESS;Initial Catalog=PracticeOnlineShoppingDb;User ID=sa;password=Passw0rd;TrustServerCertificate=True");
             optionsBuilder.UseSqlServer(_configuration.GetConnectionString("DbConnection"));
         }
     }
