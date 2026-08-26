@@ -1,26 +1,33 @@
 # E-Commerce Website
 
-A [brief: what kind of e-commerce site — e.g., product catalog & checkout / admin + storefront] built with ASP.NET Core MVC and SQL Server.
+A Flipkart-inspired e-commerce web application with product browsing, an admin panel, and full CRUD operations, built using ASP.NET Core, Web API, and SQL Server.
 
 ## Features
-- [e.g., Product listing & categories]
-- [e.g., Cart & checkout flow]
-- [e.g., User authentication]
-- [e.g., Admin panel for product management]
+- Product catalog with CRUD operations (create, read, update, delete)
+- Admin login and dashboard for managing products
+- RESTful Web API backend powering the UI
+- SQL Server database for persistent storage
 
 ## Tech Stack
-- **Backend:** ASP.NET Core MVC, C#
-- **Database:** SQL Server, Entity Framework [Core / 6, if applicable]
-- **Frontend:** [Razor Views / Bootstrap / etc. — whatever you used]
-
-## Architecture
-[e.g., Controller → Service → Repository pattern, or MVC standard structure]
+- **Backend:** C#, ASP.NET Core, Web API
+- **Database:** SQL Server, Entity Framework
+- **Frontend:** [fill in — Razor Views? Angular? plain HTML/CSS/JS?]
 
 ## Getting Started
+
 ```bash
 git clone https://github.com/rohitkoli-13/E-Commerce-Website.git
 cd E-Commerce-Website
-# update connection string in appsettings.json
+# Update the connection string in appsettings.json
 dotnet ef database update
 dotnet run
 ```
+
+## Future Improvements
+- Cart & checkout flow
+- Order history and tracking
+- Payment gateway integration
+- Role-based access (customer vs. admin)
+
+## Screenshots
+[Add 1-2 screenshots of the product listing and admin panel]
